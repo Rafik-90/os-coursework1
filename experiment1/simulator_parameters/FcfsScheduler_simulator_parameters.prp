@@ -1,0 +1,7 @@
+scheduler=FcfsScheduler
+timeLimit=100000
+interruptTime=1
+timeQuantum=5
+initialBurstEstimate=5
+alphaBurstEstimate=0.5
+periodic=false

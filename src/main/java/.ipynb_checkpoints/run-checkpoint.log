@@ -1,0 +1,284 @@
+running Experiment 1
+written input params to OS-experiments/experiment_1/input_parameters/input_parameters-seed_50.prp
+generated  the input data in OS-experiments/experiment_1/input_files/input-seed_50.in
+written input params to OS-experiments/experiment_1/input_parameters/input_parameters-seed_100.prp
+generated  the input data in OS-experiments/experiment_1/input_files/input-seed_100.in
+written input params to OS-experiments/experiment_1/input_parameters/input_parameters-seed_120.prp
+generated  the input data in OS-experiments/experiment_1/input_files/input-seed_120.in
+written input params to OS-experiments/experiment_1/input_parameters/input_parameters-seed_200.prp
+generated  the input data in OS-experiments/experiment_1/input_files/input-seed_200.in
+written input params to OS-experiments/experiment_1/input_parameters/input_parameters-seed_531.prp
+generated  the input data in OS-experiments/experiment_1/input_files/input-seed_531.in
+----------- running RRScheduler -----------
+written sim params to OS-experiments/experiment_1/simulator_parameters/RRScheduler_simulator_parameters.prp
+----------- running with seed: 50... -----------
+------- Finished running RRScheduler --------
+----------- running with seed: 100... -----------
+------- Finished running RRScheduler --------
+----------- running with seed: 120... -----------
+------- Finished running RRScheduler --------
+----------- running with seed: 200... -----------
+------- Finished running RRScheduler --------
+----------- running with seed: 531... -----------
+------- Finished running RRScheduler --------
+----------- running SJFScheduler -----------
+written sim params to OS-experiments/experiment_1/simulator_parameters/SJFScheduler_simulator_parameters.prp
+----------- running with seed: 50... -----------
+------- Finished running SJFScheduler --------
+----------- running with seed: 100... -----------
+------- Finished running SJFScheduler --------
+----------- running with seed: 120... -----------
+------- Finished running SJFScheduler --------
+----------- running with seed: 200... -----------
+------- Finished running SJFScheduler --------
+----------- running with seed: 531... -----------
+------- Finished running SJFScheduler --------
+----------- running FcfsScheduler -----------
+written sim params to OS-experiments/experiment_1/simulator_parameters/FcfsScheduler_simulator_parameters.prp
+----------- running with seed: 50... -----------
+------- Finished running FcfsScheduler --------
+----------- running with seed: 100... -----------
+------- Finished running FcfsScheduler --------
+----------- running with seed: 120... -----------
+------- Finished running FcfsScheduler --------
+----------- running with seed: 200... -----------
+------- Finished running FcfsScheduler --------
+----------- running with seed: 531... -----------
+------- Finished running FcfsScheduler --------
+----------- running FeedbackRRScheduler -----------
+written sim params to OS-experiments/experiment_1/simulator_parameters/FeedbackRRScheduler_simulator_parameters.prp
+----------- running with seed: 50... -----------
+------- Finished running FeedbackRRScheduler --------
+----------- running with seed: 100... -----------
+------- Finished running FeedbackRRScheduler --------
+----------- running with seed: 120... -----------
+------- Finished running FeedbackRRScheduler --------
+----------- running with seed: 200... -----------
+------- Finished running FeedbackRRScheduler --------
+----------- running with seed: 531... -----------
+------- Finished running FeedbackRRScheduler --------
+----------- running IdealSJFScheduler -----------
+written sim params to OS-experiments/experiment_1/simulator_parameters/IdealSJFScheduler_simulator_parameters.prp
+----------- running with seed: 50... -----------
+------- Finished running IdealSJFScheduler --------
+----------- running with seed: 100... -----------
+------- Finished running IdealSJFScheduler --------
+----------- running with seed: 120... -----------
+------- Finished running IdealSJFScheduler --------
+----------- running with seed: 200... -----------
+------- Finished running IdealSJFScheduler --------
+----------- running with seed: 531... -----------
+------- Finished running IdealSJFScheduler --------
+running Experiment 2
+written input params to OS-experiments/experiment_2/input_parameters/input_parameters-seed_1250.prp
+generated  the input data in OS-experiments/experiment_2/input_files/input-seed_1250.in
+written input params to OS-experiments/experiment_2/input_parameters/input_parameters-seed_5611.prp
+generated  the input data in OS-experiments/experiment_2/input_files/input-seed_5611.in
+written input params to OS-experiments/experiment_2/input_parameters/input_parameters-seed_92111.prp
+generated  the input data in OS-experiments/experiment_2/input_files/input-seed_92111.in
+written input params to OS-experiments/experiment_2/input_parameters/input_parameters-seed_123420.prp
+generated  the input data in OS-experiments/experiment_2/input_files/input-seed_123420.in
+written input params to OS-experiments/experiment_2/input_parameters/input_parameters-seed_155600.prp
+generated  the input data in OS-experiments/experiment_2/input_files/input-seed_155600.in
+----------- running RRScheduler -----------
+written sim params to OS-experiments/experiment_2/simulator_parameters/RRScheduler_simulator_parameters.prp
+----------- running with seed: 1250... -----------
+------- Finished running RRScheduler --------
+----------- running with seed: 5611... -----------
+------- Finished running RRScheduler --------
+----------- running with seed: 92111... -----------
+------- Finished running RRScheduler --------
+----------- running with seed: 123420... -----------
+------- Finished running RRScheduler --------
+----------- running with seed: 155600... -----------
+------- Finished running RRScheduler --------
+----------- running SJFScheduler -----------
+written sim params to OS-experiments/experiment_2/simulator_parameters/SJFScheduler_simulator_parameters.prp
+----------- running with seed: 1250... -----------
+------- Finished running SJFScheduler --------
+----------- running with seed: 5611... -----------
+------- Finished running SJFScheduler --------
+----------- running with seed: 92111... -----------
+------- Finished running SJFScheduler --------
+----------- running with seed: 123420... -----------
+------- Finished running SJFScheduler --------
+----------- running with seed: 155600... -----------
+------- Finished running SJFScheduler --------
+----------- running FcfsScheduler -----------
+written sim params to OS-experiments/experiment_2/simulator_parameters/FcfsScheduler_simulator_parameters.prp
+----------- running with seed: 1250... -----------
+------- Finished running FcfsScheduler --------
+----------- running with seed: 5611... -----------
+------- Finished running FcfsScheduler --------
+----------- running with seed: 92111... -----------
+------- Finished running FcfsScheduler --------
+----------- running with seed: 123420... -----------
+------- Finished running FcfsScheduler --------
+----------- running with seed: 155600... -----------
+------- Finished running FcfsScheduler --------
+----------- running FeedbackRRScheduler -----------
+written sim params to OS-experiments/experiment_2/simulator_parameters/FeedbackRRScheduler_simulator_parameters.prp
+----------- running with seed: 1250... -----------
+------- Finished running FeedbackRRScheduler --------
+----------- running with seed: 5611... -----------
+------- Finished running FeedbackRRScheduler --------
+----------- running with seed: 92111... -----------
+------- Finished running FeedbackRRScheduler --------
+----------- running with seed: 123420... -----------
+------- Finished running FeedbackRRScheduler --------
+----------- running with seed: 155600... -----------
+------- Finished running FeedbackRRScheduler --------
+----------- running IdealSJFScheduler -----------
+written sim params to OS-experiments/experiment_2/simulator_parameters/IdealSJFScheduler_simulator_parameters.prp
+----------- running with seed: 1250... -----------
+------- Finished running IdealSJFScheduler --------
+----------- running with seed: 5611... -----------
+------- Finished running IdealSJFScheduler --------
+----------- running with seed: 92111... -----------
+------- Finished running IdealSJFScheduler --------
+----------- running with seed: 123420... -----------
+------- Finished running IdealSJFScheduler --------
+----------- running with seed: 155600... -----------
+------- Finished running IdealSJFScheduler --------
+running Experiment 3
+written input params to OS-experiments/experiment_3/input_parameters/input_parameters-seed_1239.prp
+generated  the input data in OS-experiments/experiment_3/input_files/input-seed_1239.in
+written input params to OS-experiments/experiment_3/input_parameters/input_parameters-seed_5121.prp
+generated  the input data in OS-experiments/experiment_3/input_files/input-seed_5121.in
+written input params to OS-experiments/experiment_3/input_parameters/input_parameters-seed_5681.prp
+generated  the input data in OS-experiments/experiment_3/input_files/input-seed_5681.in
+written input params to OS-experiments/experiment_3/input_parameters/input_parameters-seed_6791.prp
+generated  the input data in OS-experiments/experiment_3/input_files/input-seed_6791.in
+written input params to OS-experiments/experiment_3/input_parameters/input_parameters-seed_91111.prp
+generated  the input data in OS-experiments/experiment_3/input_files/input-seed_91111.in
+----------- running RRScheduler -----------
+written sim params to OS-experiments/experiment_3/simulator_parameters/RRScheduler_simulator_parameters.prp
+----------- running with seed: 1239... -----------
+------- Finished running RRScheduler --------
+----------- running with seed: 5121... -----------
+------- Finished running RRScheduler --------
+----------- running with seed: 5681... -----------
+------- Finished running RRScheduler --------
+----------- running with seed: 6791... -----------
+------- Finished running RRScheduler --------
+----------- running with seed: 91111... -----------
+------- Finished running RRScheduler --------
+----------- running SJFScheduler -----------
+written sim params to OS-experiments/experiment_3/simulator_parameters/SJFScheduler_simulator_parameters.prp
+----------- running with seed: 1239... -----------
+------- Finished running SJFScheduler --------
+----------- running with seed: 5121... -----------
+------- Finished running SJFScheduler --------
+----------- running with seed: 5681... -----------
+------- Finished running SJFScheduler --------
+----------- running with seed: 6791... -----------
+------- Finished running SJFScheduler --------
+----------- running with seed: 91111... -----------
+------- Finished running SJFScheduler --------
+----------- running FcfsScheduler -----------
+written sim params to OS-experiments/experiment_3/simulator_parameters/FcfsScheduler_simulator_parameters.prp
+----------- running with seed: 1239... -----------
+------- Finished running FcfsScheduler --------
+----------- running with seed: 5121... -----------
+------- Finished running FcfsScheduler --------
+----------- running with seed: 5681... -----------
+------- Finished running FcfsScheduler --------
+----------- running with seed: 6791... -----------
+------- Finished running FcfsScheduler --------
+----------- running with seed: 91111... -----------
+------- Finished running FcfsScheduler --------
+----------- running FeedbackRRScheduler -----------
+written sim params to OS-experiments/experiment_3/simulator_parameters/FeedbackRRScheduler_simulator_parameters.prp
+----------- running with seed: 1239... -----------
+------- Finished running FeedbackRRScheduler --------
+----------- running with seed: 5121... -----------
+------- Finished running FeedbackRRScheduler --------
+----------- running with seed: 5681... -----------
+------- Finished running FeedbackRRScheduler --------
+----------- running with seed: 6791... -----------
+------- Finished running FeedbackRRScheduler --------
+----------- running with seed: 91111... -----------
+------- Finished running FeedbackRRScheduler --------
+----------- running IdealSJFScheduler -----------
+written sim params to OS-experiments/experiment_3/simulator_parameters/IdealSJFScheduler_simulator_parameters.prp
+----------- running with seed: 1239... -----------
+------- Finished running IdealSJFScheduler --------
+----------- running with seed: 5121... -----------
+------- Finished running IdealSJFScheduler --------
+----------- running with seed: 5681... -----------
+------- Finished running IdealSJFScheduler --------
+----------- running with seed: 6791... -----------
+------- Finished running IdealSJFScheduler --------
+----------- running with seed: 91111... -----------
+------- Finished running IdealSJFScheduler --------
+running Experiment 4
+written input params to OS-experiments/experiment_4/input_parameters/input_parameters-seed_1239.prp
+generated  the input data in OS-experiments/experiment_4/input_files/input-seed_1239.in
+written input params to OS-experiments/experiment_4/input_parameters/input_parameters-seed_5121.prp
+generated  the input data in OS-experiments/experiment_4/input_files/input-seed_5121.in
+written input params to OS-experiments/experiment_4/input_parameters/input_parameters-seed_5681.prp
+generated  the input data in OS-experiments/experiment_4/input_files/input-seed_5681.in
+written input params to OS-experiments/experiment_4/input_parameters/input_parameters-seed_6791.prp
+generated  the input data in OS-experiments/experiment_4/input_files/input-seed_6791.in
+written input params to OS-experiments/experiment_4/input_parameters/input_parameters-seed_91111.prp
+generated  the input data in OS-experiments/experiment_4/input_files/input-seed_91111.in
+----------- running RRScheduler -----------
+written sim params to OS-experiments/experiment_4/simulator_parameters/RRScheduler_simulator_parameters.prp
+----------- running with seed: 1239... -----------
+------- Finished running RRScheduler --------
+----------- running with seed: 5121... -----------
+------- Finished running RRScheduler --------
+----------- running with seed: 5681... -----------
+------- Finished running RRScheduler --------
+----------- running with seed: 6791... -----------
+------- Finished running RRScheduler --------
+----------- running with seed: 91111... -----------
+------- Finished running RRScheduler --------
+----------- running SJFScheduler -----------
+written sim params to OS-experiments/experiment_4/simulator_parameters/SJFScheduler_simulator_parameters.prp
+----------- running with seed: 1239... -----------
+------- Finished running SJFScheduler --------
+----------- running with seed: 5121... -----------
+------- Finished running SJFScheduler --------
+----------- running with seed: 5681... -----------
+------- Finished running SJFScheduler --------
+----------- running with seed: 6791... -----------
+------- Finished running SJFScheduler --------
+----------- running with seed: 91111... -----------
+------- Finished running SJFScheduler --------
+----------- running FcfsScheduler -----------
+written sim params to OS-experiments/experiment_4/simulator_parameters/FcfsScheduler_simulator_parameters.prp
+----------- running with seed: 1239... -----------
+------- Finished running FcfsScheduler --------
+----------- running with seed: 5121... -----------
+------- Finished running FcfsScheduler --------
+----------- running with seed: 5681... -----------
+------- Finished running FcfsScheduler --------
+----------- running with seed: 6791... -----------
+------- Finished running FcfsScheduler --------
+----------- running with seed: 91111... -----------
+------- Finished running FcfsScheduler --------
+----------- running FeedbackRRScheduler -----------
+written sim params to OS-experiments/experiment_4/simulator_parameters/FeedbackRRScheduler_simulator_parameters.prp
+----------- running with seed: 1239... -----------
+------- Finished running FeedbackRRScheduler --------
+----------- running with seed: 5121... -----------
+------- Finished running FeedbackRRScheduler --------
+----------- running with seed: 5681... -----------
+------- Finished running FeedbackRRScheduler --------
+----------- running with seed: 6791... -----------
+------- Finished running FeedbackRRScheduler --------
+----------- running with seed: 91111... -----------
+------- Finished running FeedbackRRScheduler --------
+----------- running IdealSJFScheduler -----------
+written sim params to OS-experiments/experiment_4/simulator_parameters/IdealSJFScheduler_simulator_parameters.prp
+----------- running with seed: 1239... -----------
+------- Finished running IdealSJFScheduler --------
+----------- running with seed: 5121... -----------
+------- Finished running IdealSJFScheduler --------
+----------- running with seed: 5681... -----------
+------- Finished running IdealSJFScheduler --------
+----------- running with seed: 6791... -----------
+------- Finished running IdealSJFScheduler --------
+----------- running with seed: 91111... -----------
+------- Finished running IdealSJFScheduler --------
